@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Replace with your own interstitial ad unit id. -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3229106108267369/9509150335</string>
+    <string name="banner_ad_unit_id"> ca-app-pub-3229106108267369/3462616730</string>
+    <string name="app_name">Weather Forecast 7 Days</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- london -->
+    <string name="default_city_code">6058560</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!-- message toast -->
+    <string name="s_update">Weather updated</string>
+    <string name="f_read">Failed read data</string>
+    <string name="offline">Internet is offline</string>
+    <string name="f_retrive">Failed retrive data</string>
+
+    <string-array name="string_unit">
+        <item>Celcius ( °C )</item>
+        <item>Fahrenheit ( °F )</item>
+    </string-array>
+    <string-array name="string_theme">
+        <item>Default</item>
+        <item>Side View</item>
+        <item>Center</item>
+        <item>Simple Center</item>
+        <item>Simple Left</item>
+    </string-array>
+    
+    
+    
+     <string-array name="spinner_array1">
+        <item>Temperature</item>
+		<item>Wind Speed</item>
+        <item>Precipitation</item>
+		<item>Rain</item>
+		<item>Rain Clasic</item>
+		<item>Snow</item>
+		<item>Clouds</item>
+		<item>Cloud classic</item>
+		<item>Sea Pressure</item>
+    </string-array>
+    <string-array name="map_code_array">
+     	<item>temp</item>
+		<item>wind</item>
+		<item>worldwide</item>
+		<item>rain</item>
+		<item>rain_cls</item>
+		<item>snow</item>
+		<item>clouds</item>
+		<item>clouds_cls</item>
+		<item>pressure</item>
+     </string-array>
+
+    <string name="title_activity_activity_map">ActivityMap</string>
+
+</resources>

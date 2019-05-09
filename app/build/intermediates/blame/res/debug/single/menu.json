@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\faisal\\weather_forecast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "F:\\faisal\\weather_forecast\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\faisal\\weather_forecast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_map.xml",
+        "source": "F:\\faisal\\weather_forecast\\app\\src\\main\\res\\menu\\activity_map.xml"
+    },
+    {
+        "merged": "E:\\App Station 2016\\Weather Forcast 7 Days\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_map.xml",
+        "source": "E:\\App Station 2016\\Weather Forcast 7 Days\\app\\src\\main\\res\\menu\\activity_map.xml"
+    },
+    {
+        "merged": "E:\\App Station 2016\\Weather Forcast 7 Days\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "E:\\App Station 2016\\Weather Forcast 7 Days\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\practice_codes\\WeatherForcast7Days-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "F:\\practice_codes\\WeatherForcast7Days-master\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\practice_codes\\WeatherForcast7Days-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_map.xml",
+        "source": "F:\\practice_codes\\WeatherForcast7Days-master\\app\\src\\main\\res\\menu\\activity_map.xml"
+    }
+]

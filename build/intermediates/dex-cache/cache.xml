@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_635b3705dbf28f1ab8382e80af01ede95ce045d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.2_ad739f9278b80223d1cf710eaba0dceb514b223a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_ae76918e1c6e49dddcb17699d9e39d64b1e44463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.2_81e21015135ccafbb380bf02442b781949f3156c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_d2ad9f892b40bc71457ab96e2d61ba2abb4bde8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_1115e214a2ded787b59783d351a405e7e4e59e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_b9b403c9fa575ab010a98911dae0669c7838ccd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_fccde405831394e2e8ab417089e5526bcdfef1bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_0717f53f07222b5f93717ee31759b2cfe78ad7c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_ec31b74ec9236af41ab0465d0ff13840e6482be9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_d6ff81b2d0c0bc19385b05d686b2fb5e4d908f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_ab4deecfd9d26007cc4f1a5138f6ded81b6a2d6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_329249f9f1dda5dcf52dd4d36a858f1222264946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_f0d20e88a435376897cc361f228ce12c5a4b00c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_f1c2ade43cb337083f1bc7b75aa5da38bbe2da40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_8a8cb00fdd63601d2a9b9116a78575061b1918d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\practice_codes\WeatherForcast7Days-master\app\build\intermediates\pre-dexed\debug\gson-2.2.4_141c37b78c936ac568a04c375049ecee34d5d96b.jar" />
+    </item>
+
+</items>

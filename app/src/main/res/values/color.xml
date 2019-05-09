@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Drawer menu color -->
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#ffffff</color>
+    <color name="list_background_pressed">#EBEBEB</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+
+    <color name="bg_slidemenu">#4B4B4D</color>
+
+    <color name="grey">#666666</color>
+    <color name="darker_grey">#4B4B4D</color>
+    <color name="main_grey">#666666</color>
+    <color name="button_press">#EBEBEB</color>
+
+    <!-- optional prymary color -->
+    <color name="main_blue">#43A047</color>
+    <color name="main_red">#F44336</color>
+    <color name="main_green">#8BC34A</color>
+    <color name="main_yellow">#FFC107</color>
+
+    <!-- basic color -->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <!-- other color -->
+    <color name="soft_grey">#E1E5E6</color>
+    <color name="soft_grey2">#DBDBDB</color>
+
+
+    <string-array name="color_weather">
+        <item>#43A047</item>    <!-- Clear color -->
+        <item>#48D4BD</item>    <!-- Few cloud color -->
+        <item>#107193</item>    <!-- scattered cloud color -->
+        <item>#55BEEB</item>    <!-- broken clouds color -->
+        <item>#0dc3df</item>    <!-- shower rain color -->
+
+        <item>#379EB8</item>    <!-- rain color -->
+        <item>#FF7373</item>    <!-- thunderstorm color -->
+        <item>#0DE3E3</item>    <!-- snow color -->
+        <item>#889FAC</item>    <!-- mist color -->
+        <item>#409944</item>    <!-- other color -->
+
+    </string-array>
+</resources>

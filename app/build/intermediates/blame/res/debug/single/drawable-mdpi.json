@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\faisal\\weather_forecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\faisal\\weather_forecast\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\App Station 2016\\Weather Forcast 7 Days\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\App Station 2016\\Weather Forcast 7 Days\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\practice_codes\\WeatherForcast7Days-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\practice_codes\\WeatherForcast7Days-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

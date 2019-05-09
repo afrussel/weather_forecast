@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\App Station 2016\\Weather Forcast 7 Days\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "E:\\App Station 2016\\Weather Forcast 7 Days\\app\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "F:\\practice_codes\\WeatherForcast7Days-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "F:\\practice_codes\\WeatherForcast7Days-master\\app\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "F:\\faisal\\weather_forecast\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "F:\\faisal\\weather_forecast\\app\\src\\main\\res\\xml\\widget_info.xml"
+    }
+]
